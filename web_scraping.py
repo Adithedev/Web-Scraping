@@ -14,7 +14,3 @@ class scrap():
         result = requests.get(link)
         doc = BeautifulSoup(result.text, "html.parser")
         print(doc.prettify())
-
-x = scrap
-x.web_scrap()
-
