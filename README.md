@@ -18,6 +18,9 @@ File Scraping:
               Terminal
               --------
               enter the file name which you need to access: example.html
+              
+              OutPut
+              ------
               <html>
               <title>Example File</title>
               <body>
@@ -40,6 +43,9 @@ Web Scraping:
               Terminal
               --------
               enter the website link which you needed to access: example.com
+              
+              OutPut
+              ------
               <html>
               <title>Example Website</title>
               <body>
