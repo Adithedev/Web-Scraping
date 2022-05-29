@@ -8,8 +8,11 @@ How To?
 File Scraping:
 --------------
               file scraping can be done by first calling the class with a variable then use that variable like this 
-                                                                                                                     x = scrap()
-                                                                                                                     x.file_scrap()
+                                                                                                                   
+                                                                                                                   ----------------
+                                                                                                                    x = scrap()
+                                                                                                                    x.file_scrap()
+                                                                                                                   ----------------
               after typing this run it so that it will run in your terminal and ask you for the file name, so after that you can give enter like this
 
               Terminal
@@ -28,8 +31,10 @@ File Scraping:
 Web Scraping:
 -------------
              web scraping can be done by first calling the class with a variable then use that variable like this
+                                                                                                                 ----------------
                                                                                                                   x = scrap()
                                                                                                                   x.web_scrap()
+                                                                                                                 ----------------
              after typing this run it so that it will run in your terminal and ask you for the website url, so after that you can give enter like this
                                                                                                          
               Terminal
