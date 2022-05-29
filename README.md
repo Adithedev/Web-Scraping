@@ -13,12 +13,13 @@ File Scraping:
               after typing this run it so that it will run in your terminal and ask you for the file name, so after that you can give enter like this
 
               Terminal
+              --------
               enter the file name which you need to access: example.html
               <html>
               <title>Example File</title>
               <body>
-              So this is how the code will be printed
-              </body>
+                   So this is how the code will be printed
+                </body>
               </html>
 
                                                                                                            
@@ -32,12 +33,11 @@ Web Scraping:
              after typing this run it so that it will run in your terminal and ask you for the website url, so after that you can give enter like this
                                                                                                          
               Terminal
-
+              --------
               enter the website link which you needed to access: example.com
               <html>
               <title>Example Website</title>
               <body>
-              So this is how the code will be printed
-               </body>
+                  the output in the terminal will be the code with which they created that specified web site
+                </body>
                </html>
-           the output in the terminal will be the code with which they created that specified web site
